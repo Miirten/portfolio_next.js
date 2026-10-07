@@ -51,7 +51,7 @@ export default function Home() {
           </p>
 
           <h1 className="max-w-4xl text-5xl font-bold leading-tight tracking-tight sm:text-7xl">
-            Hi, I&apos;m Your Name.
+            Hi, I&apos;m Mathew Mansfield.
             <span className="mt-3 block text-slate-400">
               I build useful software.
             </span>
