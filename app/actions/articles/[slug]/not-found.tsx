@@ -6,12 +6,12 @@ export default function ArticleNotFound() {
       <h1 className="text-4xl font-bold">Article not found</h1>
 
       <p className="mt-4 text-slate-400">
-        The article you are looking for does not exist.
+        This article does not exist.
       </p>
 
       <Link
         href="/articles"
-        className="mt-8 inline-block rounded-lg bg-cyan-400 px-6 py-3 font-semibold text-slate-950 transition-colors hover:bg-cyan-300"
+        className="mt-8 inline-block rounded-lg bg-cyan-400 px-6 py-3 font-semibold text-slate-950"
       >
         Browse articles
       </Link>
