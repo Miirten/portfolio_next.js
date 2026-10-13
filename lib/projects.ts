@@ -13,8 +13,8 @@ export const projects: PortfolioProject[] = [
     title: "Recipe Book",
     description:
       "A full-stack application for creating, viewing, editing, and deleting personal recipes.",
-    url: "https://your-deployed-recipe-app.vercel.app",
-    repositoryUrl: "https://github.com/your-username/recipe-book",
+    url: "https://recipe-db-assignment-kc38yg8h8-mat-4c83.vercel.app/dashboard",
+    repositoryUrl: "https://github.com/Miirten/recipe-db-assignment.git",
     technologies: ["Next.js", "Auth.js", "PostgreSQL"],
   },
   {
@@ -22,15 +22,16 @@ export const projects: PortfolioProject[] = [
     title: "Data Analysis Project",
     description:
       "An exploratory data-analysis project using Python and Pandas to clean and summarize a dataset.",
-    url: "https://your-hosted-analysis-url",
-    technologies: ["Python", "Pandas", "Jupyter"],
+    url: "https://colab.research.google.com/drive/11orHjzFJ227E5tjJWCD1yJeicPzAZkSZ",
+    technologies: ["Python", "Pandas"],
   },
   {
-    id: "electronics",
-    title: "Electronics / Mesh Network",
+    id: "react",
+    title: "React Tutorial Lessons",
     description:
-      "A hardware or networking project demonstrating my interest in electronics and mesh networking.",
-    url: "https://your-hosted-project-url",
-    technologies: ["Electronics", "Networking"],
+      "A list of my completed React tutorial lessons.",
+    url: "https://react-lessons-lpif.vercel.app/",
+    repositoryUrl: "https://github.com/Miirten/React-Lessons.git",
+    technologies: ["React"],
   },
 ];

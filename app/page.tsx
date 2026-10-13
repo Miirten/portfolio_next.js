@@ -95,6 +95,9 @@ export default function Home() {
                 I have studied several coding languages, including HTML, CSS, C#, SQL and Python, as 
                 well as studying databases, data analytics, and libraries such as React and Pandas, 
                 and finally the Next.js framework. 
+
+                I also have experience with Github, Vercel, Azure, and have studied Agile Development 
+                methodology.
               </p>
 
               <div className="flex flex-wrap gap-2 pt-2">
