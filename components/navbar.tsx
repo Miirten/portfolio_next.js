@@ -21,7 +21,7 @@ export default function Navbar() {
           href="/#home"
           className="rounded text-xl font-bold tracking-tight text-white focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-cyan-400"
         >
-          Your Name<span className="text-cyan-400">.</span>
+          Mathew Mansfield&apos;s Portfolio<span className="text-cyan-400">.</span>
         </Link>
 
         <ul className="flex flex-wrap justify-center gap-5">
