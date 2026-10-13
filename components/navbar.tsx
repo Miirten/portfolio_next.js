@@ -1,4 +1,6 @@
 import Link from "next/link";
+import AccountControls from "@/components/account-controls";
+import NavbarWeather from "@/components/navbar-weather";
 
 const navLinks = [
   { href: "/#bio", label: "Bio" },
@@ -34,6 +36,10 @@ export default function Navbar() {
             </li>
           ))}
         </ul>
+<div className="flex flex-col items-center gap-4 lg:flex-row">
+  <NavbarWeather />
+  <AccountControls />
+</div>
       </nav>
     </header>
   );
